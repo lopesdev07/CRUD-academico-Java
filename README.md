@@ -20,6 +20,8 @@ Projeto/
  ├── Sistemaacademico.java   # Classe principal (Main)
  └── Turmas.java
 
+---
+
 ## ▶️ Como Executar
 1. **Clone este repositório**
    ```bash
@@ -30,6 +32,8 @@ Projeto/
 3. **Compilar e executar**
    Localize na IDE o arquivo Sistemaacademico.java e dê **Run**
 
+---
+
 📌 **Funcionalidades**
 ➕ Adicionar entidades (disciplinas, estudantes, professores, turmas, matrículas)
 
@@ -39,7 +43,9 @@ Projeto/
 
 ❌ Remover entidades
 
-🛠 Próximos Passos
-Implementar persistência em banco de dados relacionais
+---
 
-Implementar exceções/tratamento de erros
+🛠 Próximos Passos:
+- Implementar persistência em banco de dados relacionais
+
+- Implementar exceções/tratamento de erros
